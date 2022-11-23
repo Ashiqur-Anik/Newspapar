@@ -1,0 +1,46 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.left-div{
+    width: 63%;
+    background-color: aliceblue;
+    float: left;
+    margin: 15px 10px;
+    padding: 15px;
+    border: 1px solid rgb(255, 70, 70);
+    
+}
+
+.right-div{
+    width: 30%;
+    text-align: justify;
+    float: right;
+    padding: 10px;
+    margin:15px 0px;
+    border: 1px solid rgb(67, 42, 255);
+     
+   
+
+}
+
+.right-blog-2{
+margin: 20px 0px;
+
+}
+.design-1{
+    background-color: antiquewhite;
+    padding: 15px;
+
+
+}
+
+.para-design{
+    text-align: justify;
+}
+
+/* left div */
+.left-post-1{
+    margin-bottom: 20px;
+    
+}
